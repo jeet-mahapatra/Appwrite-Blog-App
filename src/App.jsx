@@ -1,9 +1,8 @@
 import './App.css'
-import conf from './config/config'
+import conf from './conf/conf'
 
 function App() {
 
-console.log(conf.appwriteURL) 
 
   return (
     <>
